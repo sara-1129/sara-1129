@@ -1,7 +1,8 @@
-- 👋 Hi ,My name is Sara
-- I am currently a sophomore student pursuing B.Tech in Mathematics and Computing at NIT Hamirpur
-- I am currently passionate about web development and currently learning CPP and DSA.
-- 😄 Pronouns: ...She /Her
+ # Hi ,My name is Sara
+ # Sophomore Student
+ # pursuing B.Tech in Mathematics and Computing at NIT Hamirpur
+ I am currently passionate about web development and currently learning CPP and DSA.
+ 
 
 
 <!---
