@@ -1,7 +1,7 @@
  # Hi ,My name is Sara
- # Sophomore Student
- # pursuing B.Tech in Mathematics and Computing at NIT Hamirpur
- I am currently passionate about web development and currently learning CPP and DSA.
+  Sophomore Student
+  Pursuing B.Tech in Mathematics and Computing at NIT Hamirpur
+ I am passionate about web development and currently learning CPP and DSA.
  
 
 
