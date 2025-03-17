@@ -2,7 +2,7 @@
   ✨Sophomore Student </br>
   Pursuing B.Tech in Mathematics and Computing at NIT Hamirpur</br>
   </br>
- Currently learning C++ and DSA with 70+ problems solved.
+Currently learning Full Stack Web Development
  
 
 
