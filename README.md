@@ -34,7 +34,7 @@
 ### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cpp,java,c,git,github,vscode" />
 </p>
 
 > *I fight bugs. I write code. I refresh browsers like it’s cardio.*
