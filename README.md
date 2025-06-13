@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sara-1129">
-    <img src="https://komarev.com/ghpvc/?username=sara-1129&label=Profile%20Views&color=FF7F50&style=flat" />
-  </a>
+  
   <a href="https://github.com/sara-1129?tab=repositories">
     <img src="https://badges.pufler.dev/repos/sara-1129?color=FF7F50" />
   </a>
