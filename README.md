@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sara-1129&theme=omni&border_radius=10&mode=weekly&fire=FF7F50&ring=FF7F50" height="200" />
+<!--   <img src="https://streak-stats.demolab.com?user=sara-1129&theme=omni&border_radius=10&mode=weekly&fire=FF7F50&ring=FF7F50" height="200" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=sara-1129&show_icons=true&theme=omni&count_private=true&border_radius=10&bg_color=30,0d1117,161b22&title_color=FF7F50&icon_color=FF7F50" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-1129&layout=compact&theme=omni&border_radius=10&bg_color=30,161b22,0d1117&title_color=FF7F50" height="200" />
 </p>
