@@ -9,12 +9,7 @@
   💻 Frontend Dev | 🧠 DSA Nerd | 🦾 Can out-debug your debugger
 </p>
 
-<p align="center">
-  
-  <a href="https://github.com/sara-1129?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/sara-1129?color=FF7F50" />
-  </a>
-</p>
+
 
 ---
 
