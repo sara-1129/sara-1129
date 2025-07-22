@@ -5,8 +5,12 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
 </p>
 
+<p align = ""center>
+  
+</p>
 <p align="center">
-  💻 Frontend Dev | 🧠 DSA Nerd | 🦾 Can out-debug your debugger
+  
+  💻 Frontend Dev | 🧠 DSA Nerd | 🦾 Can out-debug your debugger |Open source Contributor
 </p>
 
 
@@ -23,6 +27,9 @@
 - 🧗‍♀️ Currently climbing the full-stack mountain (bring snacks)
 
 ---
+
+## 🚀 Contributions & Programs
+- **GirlScript Summer of Code 2025** ([GSSoC'25](https://gssoc.girlscript.tech/)) - Selected as a contributor.
 
 ### ⚒️ Tech Stack
 
